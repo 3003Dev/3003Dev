@@ -5,20 +5,12 @@
 ![gender](https://img.shields.io/badge/gender-♂️-blue)
 
 Hi, I'm oblivion. I am a **web/python** dev.  
-I don't post my projects because they only serve as practice for me.  
 Contact me if you have questions!
-
-
----
-
-## 📬 All my contacts are on my guns. lol : 
-
-**https://guns.lol/wbz3rkz**
 
 ---
 
 ## 📚 General
-- 🚧 Founder of **APS** & owner on **Paradox**,I am a **Python** and **web** *developer*, with a bit of **Lua** as well. i do  web pentesting, network, and hardware.
+- 🚧 owner on **Paradox**,I am a **Python** and **web** *developer*, with a bit of **Lua** as well. i do  web pentesting, network, and hardware.
 
 ---
 
