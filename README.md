@@ -10,7 +10,7 @@ Contact me if you have questions!
 ---
 
 ## 📚 General
-- 🚧 owner on **Paradox**,I am a **Python** and **web** *developer*, with a bit of **Lua** as well. i do  web pentesting, network, and hardware.
+- 🚧I am a **Python** and **web** *developer*, with a bit of **Lua** as well. i do  web pentesting, network, and hardware.
 
 ---
 
