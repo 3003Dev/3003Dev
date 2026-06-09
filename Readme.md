@@ -1,4 +1,5 @@
 # 💫 About Me:
+i don't publish things on github
 ![status](https://img.shields.io/badge/status-up-green)
 ![gender](https://img.shields.io/badge/gender-♂️-blue)
 
