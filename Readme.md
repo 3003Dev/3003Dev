@@ -16,5 +16,5 @@
 **Ya rien bogoss.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=3003Dev&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=3003Dev&icon=0&color=1)](https://netquery.netlify.app/)
 
