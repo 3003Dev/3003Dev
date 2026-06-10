@@ -1,5 +1,5 @@
 # 💫 About Me:
-**__I don't publish things on github.__**
+**I don't publish things on github.**
 
 ![status](https://img.shields.io/badge/status-up-green)
 ![gender](https://img.shields.io/badge/gender-♂️-blue)
@@ -13,7 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=3003Dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 **Ya rien bogoss.**
 
 ---
