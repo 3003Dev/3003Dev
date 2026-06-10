@@ -1,5 +1,6 @@
 # 💫 About Me:
-i don't publish things on github
+**__I don't publish things on github.__**
+
 ![status](https://img.shields.io/badge/status-up-green)
 ![gender](https://img.shields.io/badge/gender-♂️-blue)
 
@@ -13,7 +14,8 @@ i don't publish things on github
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=3003Dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=3003Dev&icon=0&color=7)](https://visitcount.itsvg.in)
+**Ya rien bogoss.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://komarev.com/ghpvc/?username=3003Dev&icon=0&color=5)](https://visitcount.itsvg.in)
+
